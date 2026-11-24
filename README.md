@@ -8,9 +8,9 @@ An entry for the [make.fun bounty](https://make.fun/bounty/u-eager-stork-81-9647
 
 ## The entry
 
-> Your bread has been upgraded to charcoal. No refunds.
+> Error 404: Bread not found. It went in golden and came out as a smoke signal.
 
-The toaster reports a burnt slice in the deadpan voice of a software update notice: the bread was not ruined, it was *upgraded* — and the company policy that follows makes it clear nobody is getting their breakfast back.
+The toaster reports a vanished slice in the deadpan voice of a web server's 404 page: the bread went in golden and came out as a smoke signal — the toast has not just burnt, it has ceased to exist as bread at all.
 
 ## Run
 
