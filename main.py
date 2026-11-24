@@ -15,6 +15,15 @@ Why this line works against the judge's brief:
    appliance that has already decided the outcome and is not sorry.
 5. It lands on a single read: burnt toast, reframed as an upgrade,
    with a no-refunds punchline that needs no second sentence.
+6. "Your bread" makes it personal: the machine is not reporting a
+   generic fault, it is telling the owner what happened to their
+   breakfast, which is why the deadpan lands instead of drifting.
+7. "Charcoal" is the right noun, not an adjective: the toast is not
+   described as burnt, it has become a different product entirely,
+   which is exactly how an upgrade notice would talk.
+8. "No refunds" is a policy clause, not a joke tag: it turns the
+   appliance into a vendor that has already closed the case, so the
+   humour comes from the machine's certainty, not from a wink.
 
 The program is fully deterministic: no network, no randomness, no
 environment reads. It writes the single line to /output/entry.txt.
