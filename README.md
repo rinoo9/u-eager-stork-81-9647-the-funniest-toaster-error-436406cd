@@ -8,9 +8,9 @@ An entry for the [make.fun bounty](https://make.fun/bounty/u-eager-stork-81-9647
 
 ## The entry
 
-> Error 404: Bread not found. It went in golden and came out as a smoke signal.
+> Error 402: Payment required. The toaster will not work until the bread pays rent.
 
-The toaster reports a vanished slice in the deadpan voice of a web server's 404 page: the bread went in golden and came out as a smoke signal — the toast has not just burnt, it has ceased to exist as bread at all.
+The toaster reports a rent dispute in the deadpan voice of a web server's 402 page: the appliance is not broken, it is on strike until the bread pays rent — the toast is not burnt, it is withheld pending payment.
 
 ## Run
 
